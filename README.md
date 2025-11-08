@@ -5,7 +5,7 @@ Accessibility Assistant is an **AI-powered assistant** designed to help visually
 It reads content aloud, describes on-screen elements, and provides voice-based navigation, all while learning the user’s preferences and adapting over time.
 
 ### Why It Matters
-Existing tools like **Narrator** or **ChromeVox** only work on a per-app basis and often rely on rigid accessibility tags that don’t cover every visual element.  
+Existing tools like **Narrator** or **ChromeVox** only work on a per-app basis and often rely on rigid accessibility tags that do not cover every visual element.  
 Accessibility Assistant goes further, it operates at the **operating system level**, dynamically interpreting any screen layout and translating it into natural, human-like descriptions and commands.
 
 This ensures a more intuitive, independent, and personalized digital experience for visually impaired users.
@@ -54,6 +54,3 @@ Accessibility Assistant aims to:
 - Multi-language voice and object recognition.  
 - Offline mode for on-device assistance.  
 - Emotion recognition in visual descriptions.
-
-Added product overview to README
-
