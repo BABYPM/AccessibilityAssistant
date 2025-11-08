@@ -57,5 +57,3 @@ Accessibility Assistant aims to:
 
 Added product overview to README
 
-Added product overview to README
-
